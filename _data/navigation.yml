@@ -4,10 +4,10 @@ main:
   - title: "Members"
     url: /lab-members/
   - title: "Publications"
-    url: /my-publications/
+    url: /lab-publications/
   - title: "Teaching"
-    url: /my-teaching/
+    url: /lab-teaching/
   - title: "Facilities"
-    url: /my-facilities/
+    url: /lab-facilities/
   - title: "Contact"
-    url: /my-contact/
+    url: /lab-contact/
