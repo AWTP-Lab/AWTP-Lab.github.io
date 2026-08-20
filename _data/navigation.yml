@@ -11,17 +11,17 @@ main:
 - title: "Members"
     url: /members/
     
-  - title: "Research"
+- title: "Research"
     url: /research/
     
-  - title: "Publications"
+- title: "Publications"
     url: /publications/
     
-  - title: "Teaching"
+- title: "Teaching"
     url: /teaching/
     
-  - title: "Facilities"
+- title: "Facilities"
     url: /facilities/
     
-  - title: "Contact"
+- title: "Contact"
     url: /contact/
