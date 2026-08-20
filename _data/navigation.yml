@@ -2,14 +2,12 @@ main:
   - title: "Home"
     url: /
   - title: "Members"
-    url: /members/
-  - title: "Research"
-    url: /research/
+    url: /lab-members/
   - title: "Publications"
-    url: /publications/
+    url: /my-publications/
   - title: "Teaching"
-    url: /teaching/
+    url: /my-teaching/
   - title: "Facilities"
-    url: /facilities/
+    url: /my-facilities/
   - title: "Contact"
-    url: /contact/
+    url: /my-contact/
