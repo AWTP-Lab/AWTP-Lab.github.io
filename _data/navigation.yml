@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /lab-about/
+#  - title: "About"
+#    url: /lab-about/
   - title: "Members"
     url: /lab-members/
   - title: "Publications"
