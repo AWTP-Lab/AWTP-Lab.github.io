@@ -49,15 +49,15 @@ author_profile: true
 
 ## M.S. Students (석사과정)
 
-**Jeongkyun Yu**
+**Jeongkyun Yu (유정균)**
 * Research Interests: Ceramic Membrane/Reverse Osmosis, Oil Wastewater Treatment
 * Email: gks879@korea.ac.kr
 
-**Hojun Lee**
+**Hojun Lee (이호준)**
 * Research Interests: BPED, Resource Recovery
 * Email: open3012@korea.ac.kr
 
-**Jungeun Park**
+**Jungeun Park (박정은)**
 * Research Interests: Membrane Contactor/Reverse Osmosis, Resource Recovery
 * Email: ekfzhddl02@korea.ac.kr
 
@@ -65,22 +65,22 @@ author_profile: true
 
 ## Undergraduate Researchers (학부연구생)
 
-* **Chaewon Park** - Department of Environmental Engineering
-* **Jeongeum Kim** - Department of Environmental Engineering
-* **Soohong Lee** - Department of Environmental Engineering
-* **Junwon Shin** - Department of Environmental Engineering
+* **Chaewon Park (박채원)** - Department of Environmental Engineering
+* **Jeongeum Kim (김정음)** - Department of Environmental Engineering
+* **Soohong Lee (이수홍)** - Department of Environmental Engineering
+* **Junwon Shin (신준원)** - Department of Environmental Engineering
 
 <br>
 
 ## Alumni (졸업생)
 
 **Research Professor & Postdoctoral Researcher**
-* **Dr. Songbok Lee** (Research Professor) - Current: BKT Ltd.
+* **Dr. Songbok Lee (이성복)** (Research Professor) - Current: BKT Ltd.
 * **Dr. Ali M Abou-Elanwar** (Postdoctoral Researcher) - Current: Postdoctoral Researcher at Korea Institute of Energy Technology
 
 **M.S. Graduates**
-* **Injeong Jang** - Current: Korea Research Institute for Human Settlements
-* **Daeho Lee** - Current: Coway Entech
-* **Jongmin Oh** - Current: Bucheon City Hall
-* **Donguk Choi** - Current: Hyorim E&I
-* **Jieun Kim** - Current: Ph.D. Student at Korea University (School of Civil, Environmental and Architectural Engineering)
+* **Injeong Jang (장인정)** - Current: Korea Research Institute for Human Settlements
+* **Daeho Lee (이대호)** - Current: Coway Entech
+* **Jongmin Oh (오종민)** - Current: Bucheon City Hall
+* **Donguk Choi (최동욱)** - Current: Hyorim E&I
+* **Jieun Kim (김지은)** - Current: Ph.D. Student at Korea University (School of Civil, Environmental and Architectural Engineering)
