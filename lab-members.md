@@ -53,13 +53,13 @@ author_profile: true
 * Research Interests: Ceramic Membrane/Reverse Osmosis, Oil Wastewater Treatment
 * Email: gks879@korea.ac.kr
 
-**Jungeun Park**
-* Research Interests: Membrane Contactor/Reverse Osmosis, Resource Recovery
-* Email: ekfzhddl02@korea.ac.kr
-
 **Hojun Lee**
 * Research Interests: BPED, Resource Recovery
 * Email: open3012@korea.ac.kr
+
+**Jungeun Park**
+* Research Interests: Membrane Contactor/Reverse Osmosis, Resource Recovery
+* Email: ekfzhddl02@korea.ac.kr
 
 <br>
 
