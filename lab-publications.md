@@ -112,4 +112,5 @@ You can also find my complete list of articles and citation metrics on my [Googl
 * Water treatment system and water treatment method using the same (Registration No.: 10-2628263) 
 * Hollow fiber water treatment apparatus capable of cross-flow backwash (Registration No.: 10-2676978) 
 * Membrane fabrication method thereof for selective separation of cationic dye and salt mixture (Registration No.: 10-2846558) 
-* Fluorine wastewater adsorbent using animal bone waste and the manufacturing method thereof (Registration No.: 10-2835942) 
+* Fluorine wastewater adsorbent using animal bone waste and the manufacturing method thereof (Registration No.: 10-2835942)
+* Gas recovery system from wastewater (Registration No.: 10-2965211)
