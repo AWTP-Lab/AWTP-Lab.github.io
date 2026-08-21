@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contact & Join Us"
-permalink: /lab-contact/
+permalink: /contact/
 author_profile: true
 ---
 
@@ -33,4 +33,4 @@ Korea University
 
 ## Location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3184.225574343118!2d127.28822001569106!3d36.62312697998492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356529dd2b69dddd%3A0x6b77242d54e4e0fb!2sKorea%20University%20Sejong%20Campus!5e0!3m2!1sen!2skr!4v1691234567890!5m2!1sen!2skr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://maps.google.com/maps?q=고려대학교%20세종캠퍼스%20과학기술1관&t=&z=16&ie=UTF8&iwloc=&output=embed" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
