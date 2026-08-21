@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Facilities"
-permalink: /facilities/
+permalink: /lab-facilities/
 author_profile: true
 ---
 
