@@ -79,7 +79,7 @@ author_profile: true
 * **Dr. Ali M Abou-Elanwar** (Postdoctoral Researcher) - Current: Postdoctoral Researcher at Korea Institute of Energy Technology
 
 **M.S. Graduates**
-* **Injeong Jang (장인정)** - Current: Korea Research Institute for Human Settlements
+* **Injeong Jang (장인정)** - Current: National Disaster Management Research Institute
 * **Daeho Lee (이대호)** - Current: Coway Entech
 * **Jongmin Oh (오종민)** - Current: Bucheon City Hall
 * **Donguk Choi (최동욱)** - Current: Hyorim E&I
