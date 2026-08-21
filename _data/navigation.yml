@@ -1,7 +1,7 @@
 main:
 #  - title: "About"
 #    url: /lab-about/
-  - title: "Members"
+  - title: "PI & Members"
     url: /lab-members/
   - title: "Publications"
     url: /lab-publications/
