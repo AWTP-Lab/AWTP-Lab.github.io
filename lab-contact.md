@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contact & Join Us"
-permalink: /contact/
+permalink: /lab-contact/
 author_profile: true
 ---
 
