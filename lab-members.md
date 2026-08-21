@@ -28,51 +28,48 @@ author_profile: true
 
 ---
 
-## Postdoctoral Researchers
-
-*(여기에 박사후 연구원 정보 추가)*
-
-**Name (이름)**
-* Ph.D. in [Major], [University]
-* Research Interests: [분야 1], [분야 2]
-* Email: example@korea.ac.kr
-
-<br>
-
 ## Ph.D. Students (박사과정)
 
-*(여기에 박사과정 학생 정보 추가)*
-
-**Name (이름)**
-* B.S. in [Major], [University]
-* Research Interests: [분야 1], [분야 2]
-* Email: example@korea.ac.kr
+**Xueru Sun**
+* Research Interests: Biological Treatment, Membrane Filtration (생물학적 처리, 막여과)
+* Email: sxru0712@163.com
 
 <br>
 
 ## M.S. Students (석사과정)
 
-*(여기에 석사과정 학생 정보 추가)*
+**Jeongkyun Yu**
+* Research Interests: Ceramic Membrane/Reverse Osmosis, Oil Wastewater Treatment (세라믹분리막/역삼투분리막, 오일 폐수 처리)
+* Email: gks879@korea.ac.kr
 
-**Name (이름)**
-* B.S. in [Major], [University]
-* Research Interests: [분야 1], [분야 2]
-* Email: example@korea.ac.kr
+**Jungeun Park**
+* Research Interests: Membrane Contactor/Reverse Osmosis, Resource Recovery (접촉분리막/역삼투, 자원 회수)
+* Email: ekfzhddl02@korea.ac.kr
+
+**Hojun Lee**
+* Research Interests: BPED, Resource Recovery (BPED, 자원회수)
+* Email: open3012@korea.ac.kr
 
 <br>
 
 ## Undergraduate Researchers (학부연구생)
 
-*(여기에 학부연구생 정보 추가)*
-
-* **Name (이름)** - Department of Environmental Engineering
-* **Name (이름)** - Department of Environmental Engineering
+* **Chaewon Park** - Department of Environmental Engineering
+* **Jeongeum Kim** - Department of Environmental Engineering
+* **Soohong Lee** - Department of Environmental Engineering
+* **Junwon Shin** - Department of Environmental Engineering
 
 <br>
 
 ## Alumni (졸업생)
 
-*(여기에 졸업생 정보와 현재 소속 추가)*
+**Research Professor & Postdoctoral Researcher**
+* **Dr. Songbok Lee** (Research Professor) - Current: BKT Ltd.
+* **Dr. Ali M Abou-Elanwar** (Postdoctoral Researcher) - Current: Postdoctoral Researcher at Korea Institute of Energy Technology
 
-* **Dr. Name** (Ph.D. 2024) - Current: Postdoc at [University/Institute]
-* **Name** (M.S. 2023) - Current: Engineer at [Company]
+**M.S. Graduates**
+* **Injeong Jang** - Current: Korea Research Institute for Human Settlements
+* **Daeho Lee** - Current: Coway Entech
+* **Jongmin Oh** - Current: Bucheon City Hall
+* **Donguk Choi** - Current: Hyorim E&I
+* **Jieun Kim** - Current: Ph.D. Student at Korea University (School of Civil, Environmental and Architectural Engineering)
