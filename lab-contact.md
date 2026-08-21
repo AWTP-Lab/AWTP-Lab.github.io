@@ -25,8 +25,7 @@ If you are interested in developing innovative water treatment technologies, adv
 * **Office:** +82-44-860-1452 
 
 **Mailing Address:**
-Department of Environmental Engineering, College of Science and Technology   
-Korea University   
+Department of Environmental Engineering, College of Science and Technology, Korea University   
 2511 Sejong-ro, Sejong City, 30019, Republic of Korea 
 
 <br>
