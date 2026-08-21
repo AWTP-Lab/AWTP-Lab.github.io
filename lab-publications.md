@@ -101,6 +101,7 @@ You can also find my complete list of articles and citation metrics on my [Googl
 <br>
 
 ## Book Chapters
+* S. Hong, **Y. Kim**, J. Choi, J. Jeong, H. Yoon, S. Lim, G. Kim, S. Lee, C. Boo, T. Yoon, J. Kim, D. Kwon, "Carbon-Neutral Water Management and Future Water Treatment Technologies (탄소중립 물관리와 미래 수처리 기술)", *Jakkawa* (2026) ISBN 9791143811547.
 * S. Hong, K. Park, J. Kim, A. Alayande, **Y. Kim**, "Seawater Reverse Osmosis (SWRO) Desalination: Energy consumption in plants, advanced low-energy technologies, and future developments for improving energy efficiency", *IWA* (2023) ISBN 9781789061208. 
 * M. Zhan, **Y. Kim**, S. Hong*, "Recent developments in forward osmosis and implications in expanding applications", *Osmosis Engineering* (2021) 149-186, Elsevier. 
 
