@@ -5,8 +5,8 @@ main:
     url: /lab-members/
   - title: "Publications"
     url: /lab-publications/
-  - title: "Teaching"
-    url: /lab-teaching/
+  - title: "Projects"
+    url: /lab-projects/
   - title: "Facilities"
     url: /lab-facilities/
   - title: "Contact"
