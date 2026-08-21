@@ -23,7 +23,7 @@ author:
   email                  : "kyuksh@korea.ac.kr"
   googlescholar          : "https://scholar.google.co.kr/citations?user=KTORn9IAAAAJ"
   orcid                  : "https://orcid.org/0000-0002-4101-4885"
-  github                 : "AWTP-Lab"
+#  github                 : "AWTP-Lab"
 
 # ==============================================================================
 # Collections (기존 템플릿 로직 복구 - 에러 방지용)
