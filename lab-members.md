@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Members"
+title: "PI & Members"
 permalink: /lab-members/
 author_profile: true
 ---
