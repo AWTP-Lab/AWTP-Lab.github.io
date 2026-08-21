@@ -27,7 +27,3 @@ The **Advanced Water Treatment Plant (AWTP) Lab** is equipped with state-of-the-
 * **Atomic Absorption Spectrophotometer (AAS)** (원자흡광광도계)
 * **Thermogravimetric Analyzer (TGA)** (열중량분석기)
 
----
-
-**💡 Tip for future updates:**  
-If you have photos of your lab or specific equipment, you can easily add them below each item using the image tag format: `<img src="/images/equipment-name.jpg" width="400">`
