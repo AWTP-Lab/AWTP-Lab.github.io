@@ -20,14 +20,14 @@ If you are interested in developing innovative water treatment technologies, adv
 
 ## Contact Information
 
-**Prof. Youngjin Kim**[cite: 1]
-* **Email:** kyuksh@korea.ac.kr (alternate: kyuksh@gmail.com)[cite: 1]
-* **Office:** +82-44-860-1452[cite: 1]
+**Prof. Youngjin Kim**
+* **Email:** kyuksh@korea.ac.kr (alternate: kyuksh@gmail.com) 
+* **Office:** +82-44-860-1452 
 
 **Mailing Address:**
-Department of Environmental Engineering, College of Science and Technology[cite: 1]  
-Korea University[cite: 1]  
-2511 Sejong-ro, Sejong City, 30019, Republic of Korea[cite: 1]
+Department of Environmental Engineering, College of Science and Technology   
+Korea University   
+2511 Sejong-ro, Sejong City, 30019, Republic of Korea 
 
 <br>
 
